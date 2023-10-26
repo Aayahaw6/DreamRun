@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5b9725abbaacc42f59f8d931f53e752b
+guid: e268cf4acfc484a718b2c3a5b3e2cc2e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: EarthTokenCollected_0
+      name: WaterTokenCollected_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac6ccbb09196843f9a78c842d60a2abf
-      internalID: 868322899
+      spriteID: 280b9a6e840bb4f1985d459386e20e76
+      internalID: 649000751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EarthTokenCollected_1
+      name: WaterTokenCollected_1
       rect:
         serializedVersion: 2
         x: 128
@@ -140,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a273d65e162f04988869750adcc96e3d
-      internalID: -1091217426
+      spriteID: e6aae8945a82e43c7889926300cba973
+      internalID: -988110256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EarthTokenCollected_2
+      name: WaterTokenCollected_2
       rect:
         serializedVersion: 2
         x: 256
@@ -161,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31e30165ab14c4fb790f4a2e78099d9e
-      internalID: 348008161
+      spriteID: 5ea0b7ac382524a478fba65989853493
+      internalID: 1096585857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EarthTokenCollected_3
+      name: WaterTokenCollected_3
       rect:
         serializedVersion: 2
         x: 0
@@ -182,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6ba98afa35234dda948b04bda8c4264
-      internalID: -1992040956
+      spriteID: cd3733b20a80c44029654f624943262d
+      internalID: 2135338914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EarthTokenCollected_4
+      name: WaterTokenCollected_4
       rect:
         serializedVersion: 2
         x: 128
@@ -203,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e02e2eeecc554382b13cab56775791b
-      internalID: -1531893461
+      spriteID: 879000cd98bf04d4ab098d0a626360e1
+      internalID: -1765608035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EarthTokenCollected_5
+      name: WaterTokenCollected_5
       rect:
         serializedVersion: 2
         x: 256
@@ -224,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18dfcb21070b5466690afdadc92ff5cb
-      internalID: 1793675807
+      spriteID: 2bbe0ffc4f3c54b72ba54e9cc2774e1a
+      internalID: 1893207656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EarthTokenCollected_6
+      name: WaterTokenCollected_6
       rect:
         serializedVersion: 2
         x: 0
@@ -245,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 908825dbb247941d58ca70e5c797e2d3
-      internalID: -1371563493
+      spriteID: 078d0a6c419de46ed87935a732904957
+      internalID: -840630106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EarthTokenCollected_7
+      name: WaterTokenCollected_7
       rect:
         serializedVersion: 2
         x: 128
@@ -266,14 +266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23f32d7c21bf645e0a616f39a7365de4
-      internalID: -388607422
+      spriteID: 1bc9f90831a3142d384cb1e84511eb46
+      internalID: 713073605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EarthTokenCollected_8
+      name: WaterTokenCollected_8
       rect:
         serializedVersion: 2
         x: 256
@@ -287,8 +287,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64e29d691e1df4e79b1619ebde5ac734
-      internalID: 1767370047
+      spriteID: e08a13d5abcc14d43954485ae705ad04
+      internalID: -1005213379
       vertices: []
       indices: 
       edges: []
@@ -304,15 +304,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      EarthTokenCollected_0: 868322899
-      EarthTokenCollected_1: -1091217426
-      EarthTokenCollected_2: 348008161
-      EarthTokenCollected_3: -1992040956
-      EarthTokenCollected_4: -1531893461
-      EarthTokenCollected_5: 1793675807
-      EarthTokenCollected_6: -1371563493
-      EarthTokenCollected_7: -388607422
-      EarthTokenCollected_8: 1767370047
+      WaterTokenCollected_0: 649000751
+      WaterTokenCollected_1: -988110256
+      WaterTokenCollected_2: 1096585857
+      WaterTokenCollected_3: 2135338914
+      WaterTokenCollected_4: -1765608035
+      WaterTokenCollected_5: 1893207656
+      WaterTokenCollected_6: -840630106
+      WaterTokenCollected_7: 713073605
+      WaterTokenCollected_8: -1005213379
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
