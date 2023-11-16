@@ -6,7 +6,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Enemy
+  m_Name: Test
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: velocityX
@@ -149,7 +149,7 @@ AnimatorStateMachine:
     m_Position: {x: 50, y: -10, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102469078766878910}
-    m_Position: {x: -204, y: -120, z: 0}
+    m_Position: {x: -200, y: -120, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102385943819249538}
     m_Position: {x: 84, y: -324, z: 0}
@@ -361,7 +361,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 6fbd3b4272fc84993b8317d782d39f77, type: 2}
+  m_Motion: {fileID: 7400000, guid: 1e682e89618ff40cc97e81f51f4c26bb, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -388,7 +388,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 6d1eca749f9f840299a309e3fd0302af, type: 2}
+  m_Motion: {fileID: 7400000, guid: 3e390f91a24614613a7a75fd960a7e53, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -415,7 +415,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: a16c2646085174726a41a2900d723bdd, type: 2}
+  m_Motion: {fileID: 7400000, guid: 5b39164dd58394ae78115d272dfc1259, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
